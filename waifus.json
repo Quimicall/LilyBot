@@ -1,0 +1,209 @@
+[
+    {
+        "nome": "Mikasa Ackerman",
+        "anime": "Attack on Titan",
+        "imagem": "https://i.imgur.com/9EuAdni.jpeg",
+        "level": 1,
+        "afinidade": "DMT",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Asuna Yuuki",
+        "anime": "Sword Art Online",
+        "imagem": "https://i.imgur.com/NhO7beY.jpeg",
+        "level": 1,
+        "afinidade": "Espada",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Rem",
+        "anime": "Re:Zero Starting Life in Another World",
+        "imagem": "https://i.imgur.com/dqvcJPB.jpeg",
+        "level": 1,
+        "afinidade": "Curandeira",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Rias Gremory",
+        "anime": "High School DxD",
+        "imagem": "https://i.imgur.com/JmKDbPI.jpeg",
+        "level": 1,
+        "afinidade": "Magia",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Albedo",
+        "anime": "Overlord",
+        "imagem": "https://i.imgur.com/3MxXKxA.jpeg",
+        "level": 1,
+        "afinidade": "Magia",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Marin Kitagawa",
+        "anime": "Sono Bisque Doll wa Koi o Suru",
+        "imagem": "https://i.imgur.com/rhf4N2s.jpeg",
+        "level": 1,
+        "afinidade": "Cosplay",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Megumin",
+        "anime": "Kono Subarashii Sekai ni Shukufuku o!",
+        "imagem": "https://i.imgur.com/nhQ9Tfy.jpeg",
+        "level": 1,
+        "afinidade": "Explosoes",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Zero-Two",
+        "anime": "Darling in the Franxx",
+        "imagem": "https://i.imgur.com/FOnpIUM.jpeg",
+        "level": 1,
+        "afinidade": "mecha",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Esdeath ",
+        "anime": "Akame ga kill!!",
+        "imagem": "https://i.imgur.com/7R0PaoU.jpeg",
+        "level": 1,
+        "afinidade": "Espada",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "kaguya shinomiya",
+        "anime": "KAGUYA-SAMA: LOVE IS WAR",
+        "imagem": "https://i.imgur.com/R2woVvz.png",
+        "level": 1,
+        "afinidade": "inteligencia",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Nico Robin",
+        "anime": "ONE PIECE",
+        "imagem": "https://i.imgur.com/2Om4QMt.jpeg",
+        "level": 1,
+        "afinidade": "Arqueologia",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Erza Scarlet",
+        "anime": "Fairy Tail",
+        "imagem": "https://i.imgur.com/FfXTkar.jpeg",
+        "level": 1,
+        "afinidade": "Magia",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Rin Tohsaka",
+        "anime": "Fate/stay night",
+        "imagem": "https://i.imgur.com/ffb84Yk.jpeg",
+        "level": 1,
+        "afinidade": "Magia",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Saber",
+        "anime": "Fate/stay night",
+        "imagem": "https://i.imgur.com/82dXZti.jpeg",
+        "level": 1,
+        "afinidade": "Espada",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Nami",
+        "anime": "One Piece",
+        "imagem": "https://i.imgur.com/PpnD5oN.jpeg",
+        "level": 1,
+        "afinidade": "Navegacao",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Shiro",
+        "anime": "No Game No Life",
+        "imagem": "https://i.imgur.com/8DIWBkS.jpeg",
+        "level": 1,
+        "afinidade": "Estrategia",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Chitoge Kirisaki",
+        "anime": "Nisekoi",
+        "imagem": "https://i.imgur.com/KuNacGD.jpeg",
+        "level": 1,
+        "afinidade": "Arma",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Winry Rockbell",
+        "anime": "Fullmetal Alchemist",
+        "imagem": "https://i.imgur.com/TfU3Djj.jpeg",
+        "level": 1,
+        "afinidade": "Mecanica",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Kaori",
+        "anime": "shigatsu wa kimi no uso",
+        "imagem": "https://i.imgur.com/0WHj3xO.jpeg",
+        "level": 1,
+        "afinidade": "musico",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Makima",
+        "anime": "Chainsaw Man",
+        "imagem": "https://i.imgur.com/32d7Bhc.jpeg",
+        "level": 1,
+        "afinidade": "Rituais",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Power",
+        "anime": "Chainsaw Man",
+        "imagem": "https://i.imgur.com/OfslM0x.jpeg",
+        "level": 1,
+        "afinidade": "Rituais",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Ilulu",
+        "anime": "Dragon Maid",
+        "imagem": "https://i.imgur.com/XPKYKhb.png",
+        "level": 1,
+        "afinidade": "Transforamacao",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Rui Tachibana",
+        "anime": "Domestic na Kanojo",
+        "imagem": "https://i.imgur.com/uQ7TMII.jpeg",
+        "level": 1,
+        "afinidade": "estudar",
+        "experiencia": 0,
+        "adquirida": false
+    }
+]
