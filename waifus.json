@@ -193,7 +193,7 @@
         "anime": "Dragon Maid",
         "imagem": "https://i.imgur.com/XPKYKhb.png",
         "level": 1,
-        "afinidade": "Transforamacao",
+        "afinidade": "Transformacao",
         "experiencia": 0,
         "adquirida": false
     },
@@ -203,6 +203,69 @@
         "imagem": "https://i.imgur.com/uQ7TMII.jpeg",
         "level": 1,
         "afinidade": "estudar",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Hancock",
+        "anime": "One Piece",
+        "imagem": "https://i.imgur.com/QChqAAj_d.webp?maxwidth=760&fidelity=grand",
+        "level": 1,
+        "afinidade": "Petrificacao",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "Chitanda",
+        "anime": "Hyouka",
+        "imagem": "https://i.imgur.com/malCIq6.jpeg",
+        "level": 1,
+        "afinidade": "Sobrecarga",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "",
+        "anime": "",
+        "imagem": "",
+        "level": 1,
+        "afinidade": "",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "",
+        "anime": "",
+        "imagem": "",
+        "level": 1,
+        "afinidade": "",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "",
+        "anime": "",
+        "imagem": "",
+        "level": 1,
+        "afinidade": "",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "",
+        "anime": "",
+        "imagem": "",
+        "level": 1,
+        "afinidade": "",
+        "experiencia": 0,
+        "adquirida": false
+    },
+    {
+        "nome": "",
+        "anime": "",
+        "imagem": "",
+        "level": 1,
+        "afinidade": "",
         "experiencia": 0,
         "adquirida": false
     }
